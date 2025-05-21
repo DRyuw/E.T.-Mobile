@@ -6,5 +6,6 @@
 <h2>Um aplicativo sobre o jogo do Atari "E.T. o Extraterrestre"</h2>
 
 # Link da Wiki:
+
 https://github.com/DRyuw/E.T.-Mobile/wiki/E.T.-Extraterrestre
-https://github.com/DRyuw/E.T.-Mobile/wiki/Widgets
+  https://github.com/DRyuw/E.T.-Mobile/wiki/Widgets
