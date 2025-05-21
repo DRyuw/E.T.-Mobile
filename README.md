@@ -12,3 +12,5 @@ https://github.com/DRyuw/E.T.-Mobile/wiki/E.T.-Extraterrestre
 https://github.com/DRyuw/E.T.-Mobile/wiki/Widgets
 
 https://github.com/DRyuw/E.T.-Mobile/wiki/Mapa-de-navegação
+
+https://github.com/DRyuw/E.T.-Mobile/wiki/App-E.T.
